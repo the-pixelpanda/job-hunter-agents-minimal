@@ -1,0 +1,8 @@
+# Runtime context: accumulated knowledge, user data, ledgers, credentials.
+# Local only. Never committed, never pushed.
+/state/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
