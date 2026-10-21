@@ -1,6 +1,7 @@
 # Runtime context: accumulated knowledge, user data, ledgers, credentials.
 # Local only. Never committed, never pushed.
 /state/
+/.playwright-mcp/
 
 # OS / editor noise
 .DS_Store
